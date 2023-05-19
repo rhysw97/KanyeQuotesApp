@@ -1,0 +1,16 @@
+3 tabs, 
+
+Home allows user to generate quote and has information modal with instructions
+
+Favourites - access favourite quotes and translations and remove any they dislike
+
+translations -select quote and language. could have popup to select quote from favourites or if blank will generate new
+
+    shows translation.
+
+    save / change options
+
+
+
+favourites
+generateQuote
